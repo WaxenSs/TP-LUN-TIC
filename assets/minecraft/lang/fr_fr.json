@@ -1,0 +1,19 @@
+{
+  "language.name": "Français",
+  "language.region": "France",
+  "language.code": "fr_fr",
+  
+  "item.hms.wooden_hammer": "Marteau en bois",
+  "item.hms.stone_hammer": "Marteau en pierre",
+  "item.hms.iron_hammer": "Marteau en fer",
+  "item.hms.golden_hammer": "Marteau en or",
+  "item.hms.diamond_hammer": "Marteau en diamant",
+  "item.hms.netherite_hammer": "Marteau en Netherite",
+
+  "item.hms.wooden_excavator": "Grosse pelle en bois",
+  "item.hms.stone_excavator": "Grosse pelle en pierre",
+  "item.hms.iron_excavator": "Grosse pelle en fer",
+  "item.hms.golden_excavator": "Grosse pelle en or",
+  "item.hms.diamond_excavator": "Grosse pelle en diamant",
+  "item.hms.netherite_excavator": "Grosse pelle en Netherite"
+}

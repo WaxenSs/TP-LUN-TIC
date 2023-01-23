@@ -1,0 +1,19 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  
+  "item.hms.wooden_hammer": "Wooden Hammer",
+  "item.hms.stone_hammer": "Stone Hammer",
+  "item.hms.iron_hammer": "Iron Hammer",
+  "item.hms.golden_hammer": "Golden Hammer",
+  "item.hms.diamond_hammer": "Diamond Hammer",
+  "item.hms.netherite_hammer": "Netherite Hammer",
+
+  "item.hms.wooden_excavator": "Wooden Excavator",
+  "item.hms.stone_excavator": "Stone Excavator",
+  "item.hms.iron_excavator": "Iron Excavator",
+  "item.hms.golden_excavator": "Golden Excavator",
+  "item.hms.diamond_excavator": "Diamond Excavator",
+  "item.hms.netherite_excavator": "Netherite Excavator"
+}
